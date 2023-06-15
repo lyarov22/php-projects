@@ -28,16 +28,16 @@
 ### │   ├───style.css
 ### │   └───ychet.sql
 ### └───pract-6
-    ├───api.php
-    ├───db.php
-    ├───delete.php
-    ├───edit.php
-    ├───index.php
-    ├───players.php
-    ├───save.php
-    ├───sport.sql
-    ├───style.css
-    └───teams.php
+### ├───api.php
+### ├───db.php
+### ├───delete.php
+### ├───edit.php
+### ├───index.php
+### ├───players.php
+### ├───save.php
+### ├───sport.sql
+### ├───style.css
+### └───teams.php
 ### ├───0-тест_сервера.docx
 ### ├───1-база_пхп.docx
 ### ├───2-Числа_и_переменные.docx
