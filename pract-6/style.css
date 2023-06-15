@@ -1,0 +1,59 @@
+/* Убираем стандартные стили для списков */
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Стили для навигационного меню */
+  .navbar-default {
+    background-color: #f8f8f8;
+    border: none;
+  }
+  
+  .navbar-default .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .navbar-default .navbar-nav > li > a {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .navbar-default .navbar-nav > li > a:hover,
+  .navbar-default .navbar-nav > li > a:focus {
+    background-color: transparent;
+    color: #555;
+  }
+  
+  /* Стили для основного контента */
+  #content {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  /* Стили для подвала */
+  footer {
+    background-color: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+    color: #777;
+  }
+  
+  /* Общие стили для ссылок */
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Стили для шапки */
+  header {
+    text-align: center;
+    padding: 20px 0;
+  }
+  
